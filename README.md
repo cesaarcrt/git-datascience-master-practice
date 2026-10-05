@@ -1,1 +1,3 @@
 #My Learning Journey
+Fix #1 added --You can safely remove this line --
+Fix 2: very important to add -- No tuve tiempo para añadirlo---
